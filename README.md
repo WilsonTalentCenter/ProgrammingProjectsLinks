@@ -3,4 +3,6 @@ a collection of links to WTC programming projects for future students to use to 
 
 Penguin Massacure Gaim - https://github.com/Charlie-Quin/penguinMassacureGaim
   - A time manipulation game with interesting physics, you can slow down or rewind time and are a penguin trying to escape the North Pole and the evil elves where you were enslaved.
+  - to run the game you can clone and run using Intellij or other Java IDE.  (Game was made with LIBGDX)
+    
 
