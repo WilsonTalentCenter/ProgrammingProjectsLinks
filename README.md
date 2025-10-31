@@ -10,6 +10,9 @@ Penguin Massacure Gaim - https://github.com/Charlie-Quin/penguinMassacureGaim
 PainOS - https://github.com/SmartKirb99/PainOS/
  - An Operating System made within the Godot Game Engine
 
+Timbre - https://github.com/protogenposting/timbre
+ - A rhythm game made using Gamemaker, involving an acorn sliding along a track and chopping trees
+
 **Simple Arcade Game Examples**-----------------------------------------------------------
 
 
@@ -17,3 +20,9 @@ PainOS - https://github.com/SmartKirb99/PainOS/
 
 Godot Launcher - https://github.com/SmartKirb99/Godot-Launcher
 - A Basic Launcher made via Java Swing to allow you to easily run all your Godot Versions that YOU download.
+
+Wavsurf - https://github.com/protogenposting/WavSurf
+ - A music tagging/searching site
+
+One Night at Puggo's - https://github.com/protogenposting/One-Night-at-Puggos
+ - A FNAF fangame where you fend off a bunch of silly creatures
