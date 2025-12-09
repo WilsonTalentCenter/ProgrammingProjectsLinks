@@ -13,6 +13,12 @@ PainOS - https://github.com/SmartKirb99/PainOS/
 Timbre - https://github.com/protogenposting/timbre
  - A rhythm game made using Gamemaker, involving an acorn sliding along a track and chopping trees
 
+**Class Diagram and Game Dev Examples**-----------------------------------------------------------
+
+Simple Plants vs Zombies - https://github.com/JKSpase/PvZ-project.git 
+ -  A tower defense game based off of Plants vs Zombies
+ -  To run the game you can clone and run using Intellij or other Java IDE.
+ -  
 **Simple Arcade Game Examples**-----------------------------------------------------------
 
 
